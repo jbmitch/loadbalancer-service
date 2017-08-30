@@ -1,0 +1,25 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="fortigate-10g" audience="direct-link" href="/docs/infrastructure/fortigate-10g/getting-started.html"}
+IBM Bluemix Load Balancer Service
+
+    {: .navgroup id="learn"}
+    getting-started.md
+    features-overview.md
+    {: .navgroup-end}
+
+    {: .navgroup id="howto"}
+    basic-load-balancing.md
+    ssl-offload.md
+    advanced-traffic.md
+    sample-flow.md
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    faqs.md
+    apis.md
+    known-limitations.md
+    getting-support.md
+    giving-feedback.md
+    {: .navgroup-end}
